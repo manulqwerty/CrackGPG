@@ -15,6 +15,7 @@ You can download CrackGPG by clonin the [Git](https://github.com/manulqwerty/Cra
 	
     git clone https://github.com/manulqwerty/CrackGPG.git
     cd CrackGPG && pip install -r requirements.txt
+    chmod +x crackgpg.pyc
 	
 CrackGPG works out of the box with [Python](http://www.python.org/download/) version **2.6.x** and **2.7.x** on any platform.
 	
