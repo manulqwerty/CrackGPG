@@ -2,7 +2,7 @@
 
 [![Python 2.6|2.7](https://img.shields.io/badge/python-2.6|2.7-yellow.svg)](https://www.python.org/) [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://raw.githubusercontent.com/master/LICENSE) [![Twitter](https://img.shields.io/badge/twitter-@manulqwerty-blue.svg)](https://twitter.com/manulqwerty) 
 
-CrackGPG is an open source CTF tool used to crack GPG (GNU Privacy Guard) / PGP (Pretty Good Privacy) files
+CrackGPG is an open source CTF tool used to crack GPG (GNU Privacy Guard) / PGP (Pretty Good Privacy) files.
 **Developed by [@manulqwerty - IronHackers](https://ironhackers.es).**
 
 Screenshots
