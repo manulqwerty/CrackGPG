@@ -7,7 +7,8 @@ CrackGPG is an open source CTF tool used to crack GPG (GNU Privacy Guard) / PGP 
 
 Screenshots
 ----
-[GIF]
+
+![Screenshot](https://ironhackers.es/wp-content/uploads/2018/10/executionScreenshot.png)
 
 Instalation
 ----
