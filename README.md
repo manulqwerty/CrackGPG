@@ -27,3 +27,7 @@ To get help:
 To crack a GPG_FILE using a custom WORDLIST.TXT:
 
     python crackgpg.py GPG_FILE WORDLIST.TXT
+    
+You can also use the compiled format:
+
+    ./crackgpg.pyc -h
